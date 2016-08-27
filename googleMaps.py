@@ -92,7 +92,7 @@ def closestFromGroup(origin, destinationArray):
 myLocation = "1100 NE Campus Pkwy #200, Seattle, WA 98105"
 listOfStarbucks = ["4555 University Way NE, Seattle, WA 98105", "First Starbucks Pike Place, Seattle WA", "1124 Pike St, Seattle, WA 98101"] 
 
-listOfStarbucks.append("starbucks near University District Seattle WA")))
+listOfStarbucks.append("starbucks near University District Seattle WA")
 
 print listOfStarbucks
 print closestFromGroup(myLocation, listOfStarbucks)
